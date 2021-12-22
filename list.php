@@ -99,7 +99,7 @@
                         <td>Goan Kaudis</td>
                         <td>Sistem Informasi</td>
                         <td>TKK</td>
-                        <td>Laki-laki</td>
+                        <td>Laki</td>
                         <td>
                           <small class="mr-1 text-danger"><i class="fas fa-arrow-down"></i>0.30</small>3.20
                         </td>
