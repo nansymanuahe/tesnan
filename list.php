@@ -83,7 +83,7 @@
                         <td>Jackson Balao</td>
                         <td>Sistem Informasi</td>
                         <td>TKK</td>
-                        <td>Pria</td>
+                        <td>Laki-laki</td>
                         <td>
                           <small class="mr-1 text-success"><i class="fas fa-arrow-up"></i>0.51</small>3.51
                         </td>
@@ -99,7 +99,7 @@
                         <td>Goan Kaudis</td>
                         <td>Sistem Informasi</td>
                         <td>TKK</td>
-                        <td>Pria</td>
+                        <td>Laki-laki</td>
                         <td>
                           <small class="mr-1 text-danger"><i class="fas fa-arrow-down"></i>0.30</small>3.20
                         </td>
@@ -115,7 +115,7 @@
                         <td>Aron Dalonto</td>
                         <td>Sistem Informasi</td>
                         <td>TKK</td>
-                        <td>Pria</td>
+                        <td>Laki-laki</td>
                         <td>
                           <small class="mr-1 text-warning"><i class="fas fa-arrows-alt-h"></i>0</small>3.75
                         </td>
